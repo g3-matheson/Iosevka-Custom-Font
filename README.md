@@ -4,4 +4,6 @@
 
 A custom Iosevka font I put together to resemble my handwriting: in particular, I find the **i** and **j** extremely satisfying.
 
+The font now has 'Nerd Font' icons patched in as well for terminal/nvim use.
+
 Make your own customization [here](https://typeof.net/Iosevka/customizer).

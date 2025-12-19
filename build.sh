@@ -1,0 +1,1 @@
+npm run build -- contents::IosevkaCustom
